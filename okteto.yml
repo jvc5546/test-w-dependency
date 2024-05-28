@@ -1,6 +1,6 @@
 dependencies:
   back-main:
-    repository: https://gitlab.com/kantonov/back-main.git
+    repository: https://github.com/jvc5546/dependency-repo.git
     manifest: okteto/okteto.yml
-    branch: feat/okteto
+    branch: test
     wait: false
