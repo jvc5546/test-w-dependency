@@ -1,0 +1,6 @@
+dependencies:
+  back-main:
+    repository: https://gitlab.com/kantonov/back-main.git
+    manifest: okteto/okteto.yml
+    branch: feat/okteto
+    wait: false
