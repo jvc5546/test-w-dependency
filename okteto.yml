@@ -1,6 +1,6 @@
 dependencies:
   back-main:
     repository: https://github.com/jvc5546/dependency-repo.git
-    manifest: okteto/okteto.yml
+    manifest: okteto.yml
     branch: test
     wait: false
